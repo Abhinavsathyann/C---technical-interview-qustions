@@ -69,3 +69,19 @@ Use **g++** in terminal or VS Code:
 ```bash
 g++ program_name.cpp -o output
 ./output
+
+🪄 Windows (MinGW)
+g++ program_name.cpp -o program.exe
+program.exe
+
+🧪 Linux / Mac
+g++ program_name.cpp -o program
+./program
+
+
+For socket programs (Chat App), use:
+
+g++ server.cpp -o server
+g++ client.cpp -o client
+./server   # in one terminal
+./client   # in another terminal
