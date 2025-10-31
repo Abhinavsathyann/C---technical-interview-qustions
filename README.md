@@ -61,6 +61,18 @@ This repository contains **20 advanced C++ programs** designed for **technical i
 
 ---
 
+## 📖 Requirements
+
+C++17 or later
+
+g++ compiler
+
+(Optional) VS Code + C/C++ Extension
+
+For networking examples → Linux or Windows WSL
+
+---
+
 ## 🧰 How to Run
 
 ### ▶️ Compile a Single Program
