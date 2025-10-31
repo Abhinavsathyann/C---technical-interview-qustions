@@ -73,6 +73,18 @@ For networking examples → Linux or Windows WSL
 
 ---
 
+## 🧩 Key Concepts Covered
+
+✅ OOP (Encapsulation, Inheritance, Polymorphism)
+✅ Data Structures – Array, Stack, Queue, Linked List, Tree, Graph
+✅ Recursion & Backtracking
+✅ File Handling in C++
+✅ Multithreading & Synchronization
+✅ Dynamic Programming
+✅ Client–Server Networking
+
+---
+
 ## 🧰 How to Run
 
 ### ▶️ Compile a Single Program
